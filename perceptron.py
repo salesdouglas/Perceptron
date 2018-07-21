@@ -1,3 +1,5 @@
+@author: Douglas Amante
+
 import random
 
 class Perceptron:
