@@ -34,7 +34,7 @@ class Perceptron:
 
         while True:
 
-            error = False
+            error = False 
 
             for i in range(self.n_samples):
                 u = 0
